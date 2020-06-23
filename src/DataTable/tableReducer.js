@@ -81,7 +81,6 @@ export function tableReducer(state, action) {
         sortColumn,
         selectedColumn,
         sortDirection,
-        currentPage: 1,
         // when using server-side paging reset selected row counts when sorting
         ...clearSelectedOnSort && ({
           allSelected: false,
