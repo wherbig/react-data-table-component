@@ -1,7 +1,7 @@
 {
-  "name": "react-data-table-component",
-  "version": "6.9.3",
-  "description": "A declarative react based data table",
+  "name": "react-data-table-component-no-hop",
+  "version": "6.9.3-beta",
+  "description": "Fork of react-data-table-component to fix multiple pagination calls",
   "main": "dist/index.cjs.js",
   "module": "dist/index.es.js",
   "browser": "dist/index.cjs.js",
